@@ -11,11 +11,6 @@ The accumulation of plastic trash in ponds adversely affects aquatic ecosystems 
 
 **Keywords:**  Plastic Trash Accumulation, Aquatic Ecosystems, Satellite Signals, IoT Sensors, AI & ML, Deep Learning
 
-
-
-## Prototype
-![image](https://github.com/user-attachments/assets/e71d87ab-ddca-449e-b203-3b1d3748c436)
-
 ## Output
 
 - #### Prediction for plastic
